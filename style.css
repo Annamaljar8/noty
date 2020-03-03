@@ -1,0 +1,22 @@
+/* font converted using font-converter.net. thank you! */
+@font-face {
+  font-family: "Lassus";
+  src: url("./fonts/LASSUS.eot"); /* IE9 Compat Modes */
+  src: url("./fonts/LASSUS.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+    url("./fonts/LASSUS.otf") format("opentype"), /* Open Type Font */
+    url("./fonts/LASSUS.svg") format("svg"), /* Legacy iOS */
+    url("./fonts/LASSUS.woff") format("woff"), /* Modern Browsers */
+    url("./fonts/LASSUS.woff2") format("woff2"), /* Modern Browsers */
+    url("./fonts/LASSUS.TTF")  format('truetype'); /* Safari, Android, iOS */
+  font-weight: normal;
+  font-style: normal;
+}
+
+.noty {
+    font-family: 'Lassus';
+    font-size: 500px;
+    border: 1px solid #ddd;
+    display: inline-block;
+    padding: 10px;
+    color: green;
+}
